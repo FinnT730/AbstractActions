@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Utilitys">
+    <output-path>$PROJECT_DIR$/out/artifacts/Utilitys</output-path>
+    <root id="archive" name="Utilitys.jar">
+      <element id="module-output" name="ifAbstactions" />
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
